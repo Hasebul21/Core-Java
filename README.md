@@ -14,3 +14,6 @@
  * https://www.baeldung.com/java-serialization
  * https://www.tutorialspoint.com/java/java_serialization.htm
  * https://www.geeksforgeeks.org/serialization-in-java/
+# Annotation
+ * https://www.digitalocean.com/community/tutorials/java-annotations
+ * https://hackernoon.com/annotations-in-java-everything-you-wanted-to-know-bz4t32in
