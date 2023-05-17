@@ -1,3 +1,4 @@
+# some topics copied from https://github.com/simantaturja/Learn-Java-Spring here
 # Concurrency and synchronization
  * All 14 Parts - https://foojay.io/today/java-thread-programming-part-1/
  * Synchronized - https://www.baeldung.com/java-synchronized
