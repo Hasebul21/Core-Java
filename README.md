@@ -20,3 +20,11 @@
  * https://www.digitalocean.com/community/tutorials/java-annotations
  * https://hackernoon.com/annotations-in-java-everything-you-wanted-to-know-bz4t32in
  * https://www.edureka.co/blog/annotations-in-java/
+ * https://jenkov.com/tutorials/java-reflection/index.html
+ * https://www.baeldung.com/java-reflection
+ * https://docs.oracle.com/javase/tutorial/java/annotations/index.html
+ * https://www.baeldung.com/java-default-annotations
+ * Custom Annotation: https://www.youtube.com/watch?v=DkZr7_c9ry8
+ * https://reflectoring.io/java-annotation-processing/
+ * https://github.com/winterbe/java8-tutorial#annotations
+ * https://www.baeldung.com/java-default-annotations
