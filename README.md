@@ -1,5 +1,4 @@
 # Concurrency and synchronization
- * https://www.udemy.com/course/java-multithreading-concurrency-performance-optimization/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-NbR8tQPfiME6cXXo1A4b2g&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads
  * All 14 Parts - https://foojay.io/today/java-thread-programming-part-1/
  * Synchronized - https://www.baeldung.com/java-synchronized
  * Volatile - https://jenkov.com/tutorials/java-concurrency/volatile.html
